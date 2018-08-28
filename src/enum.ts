@@ -1,3 +1,3 @@
-export const enum ConstEnum {
+export enum ConstEnum {
     a, b, c
 }
